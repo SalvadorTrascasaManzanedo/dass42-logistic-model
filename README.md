@@ -57,7 +57,7 @@ El modelo mostró una mejora clara frente al modelo nulo:
 - AUC = .870
 ![Curva ROC](gráficas/Curva%20ROC.png)
 
-En términos absolutos, el modelo clasificó correctamente 20.327 casos: 10.453 no severos y 9.874 severos.
+
 ## Matriz de confusión
 
 | Observado / Predicho | No severa | Severa |
